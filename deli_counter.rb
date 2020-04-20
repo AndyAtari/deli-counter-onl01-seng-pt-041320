@@ -9,8 +9,8 @@ def line(katz_deli)
             number += 1
         end
        puts  "The line is currently: #{new_katz_deli.join(" ")}"
-    
-    
+
+
     end
 end
 
